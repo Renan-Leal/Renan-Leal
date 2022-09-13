@@ -21,4 +21,4 @@
   <a href="https://www.instagram.com/re_leaal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"/></a>
 </div>
 
-
+![snake gif](https://github.com/Renan-Leal/Renan-Leal/blob/output/github-contribution-grid-snake.svg)
