@@ -25,7 +25,6 @@
   <h2>Bibliotecas para manipução de dados.</h2>
   <ul>
     <li>Pandas</li>
-    <li>Numpy</li>
   </ul>
   <h2>Frameworks utilizadas.</h2>
   <li>Selenium</li>
