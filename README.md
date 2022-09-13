@@ -1,4 +1,4 @@
-### Hi there, my name is Renan Leal and I'm start studying data analysis! 👋
+### Olá, seja bem vindo! 👋
 
 <div style="display:inline-block;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Renan-Leal" height="140" alt="stats graph"  />
@@ -11,7 +11,7 @@
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="right" height="300" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" />
+  <img align="right" height="300" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" />
 </div>
 
 <h2>Redes sociais</h2>
