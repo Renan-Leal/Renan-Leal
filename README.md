@@ -22,7 +22,7 @@
 </div>
 
 <div>
-  <h2>Bibliotecas para manipução de dados.</h2>
+  <h2>Biblioteca para manipução de dados.</h2>
   <ul>
     <li>Pandas</li>
   </ul>
