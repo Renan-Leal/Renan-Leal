@@ -1,4 +1,4 @@
-### Olá, seja bem vindo! 👋
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Renan!</h1>
 
 <div style="display:inline-block;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Renan-Leal" height="140" alt="stats graph"  />
