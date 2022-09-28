@@ -21,14 +21,5 @@
   <a href="https://www.instagram.com/re_leaal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"/></a>
 </div>
 
-<div>
-  <h2>Biblioteca para manipução de dados.</h2>
-  <ul>
-    <li>Pandas</li>
-  </ul>
-  <h2>Frameworks utilizadas.</h2>
-  <li>Selenium</li>
-  <li>Flask</li>
-</div>
 
 ![snake gif](https://github.com/Renan-Leal/Renan-Leal/blob/output/github-contribution-grid-snake.svg)
