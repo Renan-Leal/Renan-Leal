@@ -1,25 +1,37 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é Renan!</h1>
+<h1 align="left">Olá, meu nome é Renan!</h1>
 
-<div style="display:inline-block;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Renan-Leal" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Renan-Leal" height="140" alt="languages graph"  />
-</div>
-<p></p>
 
-<div>
-  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="45" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" height="300" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" />
-</div>
+<img align="right" height="330" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" />
 
-<h2>Redes sociais</h2>
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas;
 
-<div>
-  <a href="https://www.linkedin.com/in/renan-leal-4225741a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"/></a>
-  <a href="https://www.instagram.com/re_leaal/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo"/></a>
-</div>
+- 👨🏻‍💻 Pratico meus conhecimentos desenvolvendo projetos aplicados para o mercado de trabalho;
 
+- 💼 Trabalhando como Analista de Automação de Dados Jr;
+
+
+<h2 align="left">Tecnologias de Interesse</h1>
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/sql-1572B6?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
+
+<br>
+
+<h2>Tecnologias mais utilizadas</h2>
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Renan-Leal&show_icons=true&theme=dark" alt="Renan-Leal's stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Leal&layout=compact&theme=dark" alt="Renan-Leal's most languages"/>
+</p>
+
+<h2>Rede Social</h2>
+<p align="left" style="background:yellow">
+  <a href="https://www.linkedin.com/in/renan-leal-4225741a0/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+</p>
+
+<br>
 
 ![snake gif](https://github.com/Renan-Leal/Renan-Leal/blob/output/github-contribution-grid-snake.svg)
