@@ -6,6 +6,7 @@
 
 - 💼 Trabalhando como Analista de Automação de Dados Jr;
 
+<br>
 
 <h2 align="left">Tecnologias de Interesse</h1>
 
