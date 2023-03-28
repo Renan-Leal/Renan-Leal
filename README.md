@@ -1,7 +1,4 @@
-<h1 align="left">Olá, meu nome é Renan!</h1>
-
-
-<img align="right" height="330" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" />
+<h1 align="left">Olá, meu nome é Renan!<img align="right" height="350" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" /></h1>
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas;
 
