@@ -4,7 +4,9 @@
 
 - 👨🏻‍💻 Pratico meus conhecimentos desenvolvendo projetos aplicados para o mercado de trabalho;
 
-- 💼 Trabalhando como Analista de Automação de Dados Jr;
+- 💼 Trabalhando como Desenvolvedor de Software;
+
+- 💼 Freelancer Automação de Dados;
 
 <br>
 
