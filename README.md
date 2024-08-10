@@ -1,12 +1,10 @@
 <h1 align="left">Olá, meu nome é Renan!<img align="right" height="350" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" /></h1>
 
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas;
+- 📚 Graduated in Systems Analysis and Development;
 
-- 👨🏻‍💻 Pratico meus conhecimentos desenvolvendo projetos aplicados para o mercado de trabalho;
+- 💼 Working as Software Developer;
 
-- 💼 Trabalhando como Desenvolvedor de Software;
-
-- 💼 Freelancer Automação de Dados;
+- 💼 Data Automation Freelancer;
 
 <br>
 
@@ -17,13 +15,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-800080?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![TAILWIND](https://img.shields.io/badge/tailwindcss-d3d3d3?style=for-the-badge&logo=tailwindcss&logoColor=black)&nbsp;
-![BOOTSTRAP](https://img.shields.io/badge/bootstrap-800080?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/sql-1572B6?style=for-the-badge&logo=sql&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -40,7 +34,6 @@
 ![PRISMA](https://img.shields.io/badge/prisma-00008b?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![MONGOOSE](https://img.shields.io/badge/mongoose-42853D?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/gcp-fac203?style=for-the-badge&logo=gcp&logoColor=white)&nbsp;
-![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 
 <br>
@@ -57,7 +50,3 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
-
-<br>
-
-![snake gif](https://github.com/Renan-Leal/Renan-Leal/blob/output/github-contribution-grid-snake.svg)
