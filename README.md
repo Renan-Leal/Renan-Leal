@@ -7,6 +7,7 @@
 - 💼 Data Automation Freelancer;
 
 <br>
+<br>
 
 <h2 align="left">Tecnologias utilizadas</h1>
 
